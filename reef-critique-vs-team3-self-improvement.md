@@ -1,6 +1,7 @@
-# Reef 与 Team3 的 RSI 之路对比（2026-09-14 重写）
+# 为什么说 Reef RSI 之路不行？
 
 > 大白话版。四个部分：Reef 是什么 → RSI 到底是怎么回事 → Team3 具体怎么做、局限在哪 → 最后批判 Reef。
+> https://github.com/Human-Agent-Society/reef
 
 ---
 
